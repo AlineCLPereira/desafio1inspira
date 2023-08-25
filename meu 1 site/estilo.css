@@ -1,6 +1,7 @@
 body {background-color: blueviolet;}
 #t1 {color: red;}
 #caixa {background-color: brown;
+    text-align: center;
     padding: ;:15px;
     border: 20px green solid;
     margin: 50px;
